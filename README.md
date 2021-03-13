@@ -1,4 +1,4 @@
-# Contrastive Neural Architecture Search with Neural Architecture Comparators
+# Contrastive Neural Architecture Search with Neural Architecture Comparators [[Arxiv](https://arxiv.org/abs/2103.05471)]
 
 Pytorch Implementation for "Contrastive Neural Architecture Search with Neural Architecture Comparators".
 
