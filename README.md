@@ -6,7 +6,7 @@ Pytorch Implementation for "Contrastive Neural Architecture Search with Neural A
 <img src="overview.png" alt="Contrastive Neural Architecture Search" width="90%" align=center />
 </p>
 
-**The code will be avaiable soon.**
+**The code will be available soon.**
 
 ## Citation
 
