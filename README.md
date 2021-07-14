@@ -1,4 +1,4 @@
-# Contrastive Neural Architecture Search with Neural Architecture Comparators [[Arxiv](https://arxiv.org/abs/2103.05471)]
+# Contrastive Neural Architecture Search with Neural Architecture Comparators [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Contrastive_Neural_Architecture_Search_With_Neural_Architecture_Comparators_CVPR_2021_paper.pdf)]
 
 Pytorch Implementation for "Contrastive Neural Architecture Search with Neural Architecture Comparators".
 
@@ -6,7 +6,7 @@ Pytorch Implementation for "Contrastive Neural Architecture Search with Neural A
 <img src="overview.png" alt="Contrastive Neural Architecture Search" width="90%" align=center />
 </p>
 
-**The code will be available soon after Neurips 2021 deadline.**
+**The code will be available in July 18, 2021.**
 
 ## Citation
 
