@@ -6,7 +6,25 @@ Pytorch Implementation for "Contrastive Neural Architecture Search with Neural A
 <img src="overview.png" alt="Contrastive Neural Architecture Search" width="90%" align=center />
 </p>
 
-**The code will be available in July 18, 2021.**
+**This is a pre release code, which would be optmized in the next few days.**
+
+## Requirements
+
+Please install all the requirements in `requirements.txt`.
+
+## Training Method
+
+
+First, we need to **download the architecture-accuracy pairs data**.
+```
+wget https://github.com/chenyaofo/CTNAS/releases/download/data/nas_bench.json -O ctnas/data/nas_bench.json
+```
+
+**Train on NAS-Bench-101**
+
+```
+python ctnas/train.py --space nasbench --data ctnas/data/nas_bench.json --train_batch_size 256 --output output/nasbench_search
+```
 
 ## Citation
 
